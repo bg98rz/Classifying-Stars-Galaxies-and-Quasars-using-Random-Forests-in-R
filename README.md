@@ -9,6 +9,23 @@ In recent years, the advent of sophisticated optical infrastructure has enabled 
 
 This project explores the automated classification of 3 separate astronomical artefacts, namely galaxy, stars and Quasi-Stellar Objects (Quasar), utilising data from the SDSS DR14 data release. Several random forest models were trained using 75% of the dataset and evaluated using the remaining 25%, ultimately achieving a maximum classification accuracy of roughly 99.3% during testing.
 
+### Class Descriptions
+
+  - Quasi-stellar Object (QSO) = A quasar is an extremely luminous active galactic nucleus, 
+                                 in which a supermassive black hole with mass ranging from 
+                                 millions to billions of times the mass of the Sun is surrounded 
+                                 by a gaseous accretion disk.
+                                 
+  
+  - Galaxy = A galaxy is a gravitationally bound system of billions of stars, 
+             stellar remnants, interstellar gas, dust, and dark matter.
+     
+     
+  - Star = A star is an astronomical object consisting of a 
+           luminous spheroid of plasma held together by its 
+           own gravity.
+           
+             
 ### Table Descriptions
 
   - mtry = A parameter of the random forest model, denotes
