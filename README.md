@@ -23,6 +23,7 @@ Image taken by the Hubble Space Telescope of a 5000-light-year-long jet ejected 
              stellar remnants, interstellar gas, dust, and dark matter.
              
 ![GitHub Logo](https://compote.slate.com/images/109b7bae-e619-4acb-bfba-830052821548.jpg)
+
 Deep Field image showing many galaxies taken by NASA, ESA, H. Teplitz and M. Rafelski (IPAC/Caltech), A. Koekemoer (STScI), 
 R. Windhorst (Arizona State University), and Z. Levay (STScI)
      
