@@ -16,6 +16,9 @@ This project explores the automated classification of 3 separate astronomical ar
                                  millions to billions of times the mass of the Sun is surrounded 
                                  by a gaseous accretion disk.
                                  
+![GitHub Logo](https://scx2.b-cdn.net/gfx/news/hires/2016/1-whatareactiv.jpg)
+Format: ![Alt Text](url)
+                                 
   
   - Galaxy = A galaxy is a gravitationally bound system of billions of stars, 
              stellar remnants, interstellar gas, dust, and dark matter.
