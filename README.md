@@ -1,4 +1,4 @@
-# Classifying-Stars-Galaxies-and-Quasars-using-Random-Forests-in-R
+# Classifying Stars Galaxies and Quasars using Random Forests in R
 
 Data: SDSS DR14 Data Release, Collected July 2016, 10,000 observations of individual astronomical artefacts.
 Availabe via query at: http://skyserver.sdss.org/CasJobs/
