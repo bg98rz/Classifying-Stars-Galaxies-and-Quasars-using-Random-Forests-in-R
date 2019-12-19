@@ -9,8 +9,11 @@ In recent years, the advent of sophisticated optical infrastructure has enabled 
 
 This project explores the automated classification of 3 separate astronomical artefacts, namely galaxy, stars and Quasi-Stellar Objects (Quasar), utilising data from the SDSS DR14 data release. Several random forest models were trained using 75% of the dataset and evaluated using the remaining 25%, ultimately achieving a maximum classification accuracy of roughly 99.3% during testing.
 
-Key
+### Table Descriptions
+
   - mtry = A parameter of the random forest model, denotes
            the number of variables to be considered at each
            node in the desicion trees which make up the random
            forests.
+           
+  
