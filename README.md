@@ -1,6 +1,7 @@
 # Classifying-Stars-Galaxies-and-Quasars-using-Random-Forests-in-R
 
 Data: SDSS DR14 Data Release, Collected July 2016, 10,000 observations of individual astronomical artefacts.
+Availabe via query at: http://skyserver.sdss.org/CasJobs/
 
 In recent years, the advent of sophisticated optical infrastructure has enabled the discovery and analysis of millions of astronomical objects. Artefacts including galaxies, quasars, exoplanets, and supernovae have been shown to be distributed throughout the entire observable universe, each bound to one another by the great gravitational forces which maintain the structure of the cosmic web (Bond et al. 1996).
 
