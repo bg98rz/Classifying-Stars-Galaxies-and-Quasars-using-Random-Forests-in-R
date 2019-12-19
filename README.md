@@ -17,8 +17,7 @@ This project explores the automated classification of 3 separate astronomical ar
                                  by a gaseous accretion disk.
                                  
 ![GitHub Logo](https://scx2.b-cdn.net/gfx/news/hires/2016/1-whatareactiv.jpg)
-Format: ![Alt Text](url)
-                                 
+Image taken by the Hubble Space Telescope of a 5000-light-year-long jet ejected from the active galaxy M87. Credit: NASA/The Hubble Heritage Team (STScI/AURA)                                 
   
   - Galaxy = A galaxy is a gravitationally bound system of billions of stars, 
              stellar remnants, interstellar gas, dust, and dark matter.
